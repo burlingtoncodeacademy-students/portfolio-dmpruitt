@@ -1,3 +1,19 @@
+Please run npm install in both the main directory and inside the client directory to bring in all of the necessary dependencies
+
+
+
+
+
+
+
+
+
+
+
+
+
+The following info was default in the readme.md file
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

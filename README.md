@@ -1,4 +1,7 @@
-Please run npm install in both the main directory and inside the client directory to bring in all of the necessary dependencies
+Please run npm install in both the main directory 
+and inside the client directory to bring in all of the necessary dependencies
+
+This is just a shell of this "optional" assignment that I intend on completing, resubmitting, and posting online.
 
 
 

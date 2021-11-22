@@ -14,6 +14,7 @@ app.get("/api", (req, res) => {
   res.sendFile(__dirname + "/api/workhistory.json");
 });
 
+// for serving up the main page
 app.get("/", (req, res) => {
   res.sendFile(__dirname + "/index.html");
 });
